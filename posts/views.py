@@ -20,5 +20,8 @@ def post_detail(request, post_id):
     return render(request, 'post_detail.html', context=context)
 
 
-def creat_post(request):
-    return render(request, 'create_post.html')
+# def about(request):
+#     return render(request, 'about.html')
+
+def base_navbar(request):
+    return render(request, 'base.html')

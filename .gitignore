@@ -1,7 +1,2 @@
-/venv
-.idea
-db.sqlite3
-```
 venv
-guide.txt
-images
+db.sqlite3
